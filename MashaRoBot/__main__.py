@@ -91,7 +91,7 @@ buttons = [
         InlineKeyboardButton(
             text="Sᴏᴜʀᴄᴇ 💫", callback_data="source_"),
         InlineKeyboardButton(
-            text="Sᴜᴘᴘᴏʀᴛ 📢", url="https://t.me/AndreaSupportChat"
+            text="DEVELOPER", url="https://t.me/Crazy_Lolan"
         ),
     ],
 ]
@@ -101,7 +101,7 @@ HELP_STRINGS = """
 *『HELP BUTTONS HERE』*"""
 
 
-DONATE_STRING = """No need.. I'm rich"""
+DONATE_STRING = """No need.. I'm rich😜"""
 
 IMPORTED = {}
 MIGRATEABLE = []
